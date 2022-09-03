@@ -1,0 +1,274 @@
+[15] Log opened at 2022-09-01 15:42:35.646912
+[15] [Step Debug] INFO: Checking remote connect back address.
+[15] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[15] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[15] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[15] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[15] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15] Log closed at 2022-09-01 15:42:37.956596
+
+[16] Log opened at 2022-09-01 15:42:48.174262
+[16] [Step Debug] INFO: Checking remote connect back address.
+[16] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[16] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[16] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[16] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[16] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[16] Log closed at 2022-09-01 15:42:52.474171
+
+[17] Log opened at 2022-09-01 15:42:59.824058
+[17] [Step Debug] INFO: Checking remote connect back address.
+[17] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[17] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[17] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[17] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[17] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[17] Log closed at 2022-09-01 15:43:00.000273
+
+[19] Log opened at 2022-09-01 15:43:23.033363
+[19] [Step Debug] INFO: Checking remote connect back address.
+[19] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[19] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[19] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[19] Log closed at 2022-09-01 15:43:23.311874
+
+[15] Log opened at 2022-09-01 15:46:51.070312
+[15] [Step Debug] INFO: Checking remote connect back address.
+[15] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[15] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[15] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[15] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[15] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15] Log closed at 2022-09-01 15:46:51.341710
+
+[7] Log opened at 2022-09-01 15:50:55.668047
+[7] [Step Debug] INFO: Checking remote connect back address.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.16.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.16.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[8] Log opened at 2022-09-01 15:50:55.722360
+[8] [Step Debug] INFO: Checking remote connect back address.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 192.168.16.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.16.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[7] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.16.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.16.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2022-09-01 15:50:55.830081
+
+[8] Log closed at 2022-09-01 15:50:55.830128
+
+[23] Log opened at 2022-09-03 13:53:51.430796
+[23] [Step Debug] INFO: Checking remote connect back address.
+[23] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[23] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[23] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[23] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[23] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[23] Log closed at 2022-09-03 13:53:51.890409
+
+[25] Log opened at 2022-09-03 13:54:08.061005
+[25] [Step Debug] INFO: Checking remote connect back address.
+[25] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[25] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[25] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[25] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[25] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[25] Log closed at 2022-09-03 13:54:08.222150
+
+[32] Log opened at 2022-09-03 13:54:19.025800
+[32] [Step Debug] INFO: Checking remote connect back address.
+[32] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[32] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[32] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[32] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[32] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[32] Log closed at 2022-09-03 13:54:19.136252
+
+[39] Log opened at 2022-09-03 13:54:46.367026
+[39] [Step Debug] INFO: Checking remote connect back address.
+[39] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[39] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[39] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[39] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[39] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[39] Log closed at 2022-09-03 13:54:46.474990
+
+[46] Log opened at 2022-09-03 13:54:53.462354
+[46] [Step Debug] INFO: Checking remote connect back address.
+[46] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[46] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[46] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[46] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[46] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[46] Log closed at 2022-09-03 13:54:53.555772
+
+[53] Log opened at 2022-09-03 15:05:24.993823
+[53] [Step Debug] INFO: Checking remote connect back address.
+[53] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[53] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[53] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[53] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[53] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[53] Log closed at 2022-09-03 15:05:25.359961
+
+[60] Log opened at 2022-09-03 15:07:40.709106
+[60] [Step Debug] INFO: Checking remote connect back address.
+[60] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[60] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[60] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[60] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[60] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[60] Log closed at 2022-09-03 15:07:40.849752
+
+[67] Log opened at 2022-09-03 15:07:58.499581
+[67] [Step Debug] INFO: Checking remote connect back address.
+[67] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[67] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[67] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[67] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[67] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[67] Log closed at 2022-09-03 15:07:58.621751
+
+[74] Log opened at 2022-09-03 15:08:14.600760
+[74] [Step Debug] INFO: Checking remote connect back address.
+[74] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[74] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[74] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[74] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[74] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[74] Log closed at 2022-09-03 15:08:14.756549
+
+[81] Log opened at 2022-09-03 15:08:24.950069
+[81] [Step Debug] INFO: Checking remote connect back address.
+[81] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[81] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[81] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[81] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[81] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[81] Log closed at 2022-09-03 15:08:25.126756
+
+[88] Log opened at 2022-09-03 15:08:38.984068
+[88] [Step Debug] INFO: Checking remote connect back address.
+[88] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[88] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[88] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[88] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[88] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[88] Log closed at 2022-09-03 15:08:39.085619
+
+[95] Log opened at 2022-09-03 15:17:22.446597
+[95] [Step Debug] INFO: Checking remote connect back address.
+[95] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[95] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[95] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[95] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[95] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[95] Log closed at 2022-09-03 15:17:22.597288
+
+[102] Log opened at 2022-09-03 15:18:11.916361
+[102] [Step Debug] INFO: Checking remote connect back address.
+[102] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[102] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[102] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[102] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[102] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[102] Log closed at 2022-09-03 15:18:12.044189
+
+[123] Log opened at 2022-09-03 15:27:22.720699
+[123] [Step Debug] INFO: Checking remote connect back address.
+[123] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[123] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[123] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[123] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[123] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[123] Log closed at 2022-09-03 15:27:22.881783
+
+[130] Log opened at 2022-09-03 15:27:36.539380
+[130] [Step Debug] INFO: Checking remote connect back address.
+[130] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[130] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[130] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[130] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[130] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[130] Log closed at 2022-09-03 15:27:36.691629
+
+[137] Log opened at 2022-09-03 15:28:45.925884
+[137] [Step Debug] INFO: Checking remote connect back address.
+[137] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[137] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[137] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[137] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[137] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[137] Log closed at 2022-09-03 15:28:46.039674
+
+[144] Log opened at 2022-09-03 15:30:02.158049
+[144] [Step Debug] INFO: Checking remote connect back address.
+[144] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[144] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[144] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[144] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[144] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[144] Log closed at 2022-09-03 15:30:02.272237
+
+[151] Log opened at 2022-09-03 15:30:38.092694
+[151] [Step Debug] INFO: Checking remote connect back address.
+[151] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[151] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[151] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[151] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[151] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[151] Log closed at 2022-09-03 15:30:38.185763
+
+[158] Log opened at 2022-09-03 18:39:55.634655
+[158] [Step Debug] INFO: Checking remote connect back address.
+[158] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[158] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[158] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[158] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[158] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[158] Log closed at 2022-09-03 18:39:56.095853
+
+[172] Log opened at 2022-09-03 18:53:45.951157
+[172] [Step Debug] INFO: Checking remote connect back address.
+[172] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[172] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[172] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[172] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[172] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[172] Log closed at 2022-09-03 18:53:46.107422
+
+[193] Log opened at 2022-09-03 18:58:10.340029
+[193] [Step Debug] INFO: Checking remote connect back address.
+[193] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[193] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[193] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[193] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[193] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[193] Log closed at 2022-09-03 18:58:10.475479
+
+[200] Log opened at 2022-09-03 18:58:51.435961
+[200] [Step Debug] INFO: Checking remote connect back address.
+[200] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[200] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[200] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[200] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[200] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[200] Log closed at 2022-09-03 18:58:51.638833
+
+[207] Log opened at 2022-09-03 18:59:11.119004
+[207] [Step Debug] INFO: Checking remote connect back address.
+[207] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[207] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[207] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003. :-|
+[207] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[207] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[207] Log closed at 2022-09-03 18:59:11.224358
+
